@@ -11,7 +11,7 @@ Ket qua trên tap test: 93.22%
 Ket qua trên tap test: 95.33%
 
 4. WiderResnet(depth=28, widen factor=10) + Dropout=0.2 + Random Erasing cho data augmentation(probability=0.4).
-Ket qua trên tap test:  
+Ket qua trên tap test:  96.04%
 
 5. WiderResnet(depth=28, widen factor=10) + Dropout=0.2 + Random Erasing cho data augmentation(probability=0.4) + CGAN cho data augmentation.
 Ket qua trên tap test:
