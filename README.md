@@ -22,4 +22,5 @@ python 2_conv_layer.py, python 3_conv_layer.py
 
 Link tham khảo:
 https://github.com/zhunzhong07/Random-Erasing
+
 https://github.com/hwalsuklee/tensorflow-generative-model-collections
