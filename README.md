@@ -15,3 +15,11 @@ Kết quả trên tập test:  96.04%
 
 5. Vẫn còn dấu hiệu overfitting, thử augment data thêm bằng CGAN. WiderResnet(depth=28, widen factor=10) + Dropout=0.2 + Random Erasing cho data augmentation(probability=0.4) + CGAN cho data augmentation.
 Kết quả trên tập test:
+
+Sử dụng chương trình CNN: Gõ lệnh trong command line
+
+python 2_conv_layer.py, python 3_conv_layer.py
+
+Link tham khảo:
+https://github.com/zhunzhong07/Random-Erasing
+https://github.com/hwalsuklee/tensorflow-generative-model-collections
