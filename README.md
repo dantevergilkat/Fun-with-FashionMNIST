@@ -30,12 +30,9 @@ Kết quả trên tập test:
 
 Xem thêm trong link tham khảo
 
-- Sử dụng chương trình GAN:
-
-python main.py --dataset fashion-mnist --gan_type CGAN --epoch 50 --batch_size 64
 
 Link tham khảo:
 
-https://github.com/zhunzhong07/Random-Erasing
+WideResnet + Random Erasing: https://github.com/zhunzhong07/Random-Erasing
 
-https://github.com/hwalsuklee/tensorflow-generative-model-collections
+GAN collections: https://github.com/hwalsuklee/tensorflow-generative-model-collections
